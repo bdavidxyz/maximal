@@ -9,3 +9,5 @@ When upgrading version, please keep :
  - folder _posts
  - _config must be merged
  - index.html
+ - folder _sass/custom 
+ - file _sass/custom.scss 
