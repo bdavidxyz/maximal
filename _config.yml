@@ -261,3 +261,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
+footer_scripts:
+  - /assets/js/blabla.js

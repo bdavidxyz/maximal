@@ -1,3 +1,5 @@
+<script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
+
 {% if site.footer_scripts %}
   {% for script in site.footer_scripts %}
     {% if script contains "://" %}
@@ -7,8 +9,6 @@
     {% endif %}
     <script src="{{ script_path }}"></script>
   {% endfor %}
-{% else %}
-  <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 {% endif %}
 
 {% include analytics.html %}

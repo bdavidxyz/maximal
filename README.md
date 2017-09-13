@@ -11,3 +11,4 @@ When upgrading version, please keep :
  - index.html
  - folder _sass/custom 
  - file _sass/custom.scss 
+ - merge _includes/scripts.html
