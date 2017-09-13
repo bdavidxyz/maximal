@@ -5,6 +5,8 @@ layout: splash
 
 A football strategy that look for games that will most likely end up in the DRAW result.
 
+<div class="ct-chart" style="height:15rem"></div>
+
 <table>
   <thead>
     <tr>
