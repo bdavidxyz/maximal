@@ -1,0 +1,6 @@
+.sm-hidden-cell {
+  display: none;
+  @include breakpoint($small) {
+    display: table-cell;
+  }
+}  

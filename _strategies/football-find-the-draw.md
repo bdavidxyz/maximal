@@ -8,10 +8,10 @@ A football strategy that look for games that will most likely end up in the DRAW
 <table>
   <thead>
     <tr>
-      <th>ID</th>
-      <th>game</th>
-      <th>competition</th>
-      <th>event</th>
+      <th>date</th>
+      <th class="sm-hidden-cell">game</th>
+      <th class="sm-hidden-cell">competition</th>
+      <th class="sm-hidden-cell">event</th>
       <th>beton</th>
       <th>odd</th>
       <th>result</th>
@@ -20,10 +20,10 @@ A football strategy that look for games that will most likely end up in the DRAW
   <tbody>
     {% for draw in site.data.football_draw %}
       <tr>
-        <td>{{ draw.id }}</td>
-        <td>{{ draw.game }}</td>
-        <td>{{ draw.competition }}</td>
-        <td>{{ draw.event }}</td>
+        <td>{{ draw.date }}</td>
+        <td class="sm-hidden-cell">{{ draw.game }}</td>
+        <td class="sm-hidden-cell">{{ draw.competition }}</td>
+        <td class="sm-hidden-cell">{{ draw.event }}</td>
         <td>{{ draw.beton }}</td>
         <td>{{ draw.odd }}</td>
         <td>{{ draw.result }}</td>
