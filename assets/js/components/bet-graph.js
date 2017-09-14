@@ -29,7 +29,14 @@ var BetGraph = Vue.component('bet-graph', {
       _.reduce(result, function(acc, e, i) { acc = acc.plus(e.gain);e.acc = acc;return acc; }, Big(0));
 
       return result;
+    },
+    indexes: function() {
+      return _.map(this.displayable_list, function(e){return e.index;});
+    },
+    accumulatees: function() {
+      return _.map(this.displayable_list, function(e){return e.acc;});
     }
+
   },
 
   methods: {
@@ -65,8 +72,8 @@ var BetGraph = Vue.component('bet-graph', {
   mounted: function() {
     var that = this;
     var chart = new Chartist.Line('.ct-chart', {
-      labels: _.concat(0, _.map(that.displayable_list, function(e){return e.index;})),
-      series: _.fill([0], _.concat(0, _.map(that.displayable_list, function(e){return e.acc;})))
+      labels: _.concat(0, that.indexes),
+      series: _.fill([0], _.concat(0, that.accumulatees))
     }, {
       showArea: true,
       axisY: {
