@@ -6,7 +6,7 @@
   "beton":"Viborg FF",
   "odd":"2.54",
   "result":"win",
-  "date":"14th Mar. 2017 16:45 GMT"
+  "date":"1497192300"
 },{
   "id":"80",
   "game":"football",
@@ -15,7 +15,7 @@
   "beton":"Saint-Etienne +0.25",
   "odd":"1.49",
   "result":"void",
-  "date":"4th Jul. 2017 11:15 GMT"
+  "date":"1500119100"
 },{
   "id":"99",
   "game":"football",
@@ -24,7 +24,7 @@
   "beton":"Sevilla +0.75",
   "odd":"1.8",
   "result":"active",
-  "date":"22nd Nov. 2016 09:45 GMT"
+  "date":"1508611500"
 },{
   "id":"11",
   "game":"football",
@@ -33,7 +33,7 @@
   "beton":"OVER 4.5",
   "odd":"1.92",
   "result":"win",
-  "date":"07th Dec. 2016 22:45 GMT"
+  "date":"1508697900"
 },{
   "id":"174",
   "game":"football",
@@ -42,7 +42,7 @@
   "beton":"Real Madrid",
   "odd":"1.04",
   "result":"lost",
-  "date":"03rd Sep. 2017 19:45 GMT"
+  "date":"1508697900"
 },{
   "id":"290",
   "game":"football",
@@ -51,5 +51,5 @@
   "beton":"Bale +0.5",
   "odd":"2.1",
   "result":"half-lost",
-  "date":"23rd Oct. 2017 19:45 GMT"
+  "date":"1508697900"
 }]

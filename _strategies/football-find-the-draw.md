@@ -5,7 +5,11 @@ layout: splash
 
 A football strategy that look for games that will most likely end up in the DRAW result.
 
-<div class="ct-chart" style="height:15rem"></div>
+<div id="strategy_app">
+  <bet-table v-bind:bet_list="bet_list"></bet-table>
+</div>
+
+<!-- <div class="ct-chart" style="height:15rem"></div>
 
 <table>
   <thead>
@@ -32,6 +36,10 @@ A football strategy that look for games that will most likely end up in the DRAW
       </tr>
     {% endfor %} 
   </tbody>
-</table>
+</table> -->
+
+<script type="text/javascript">
+  var raw_data = {{ site.data.football_draw | jsonify }};
+</script>
 
 
