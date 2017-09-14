@@ -64,12 +64,9 @@ var BetGraph = Vue.component('bet-graph', {
 
   mounted: function() {
     var that = this;
-    var own_series = [];
-    var acc_only = _.concat(0, _.map(that.displayable_list, function(e){return e.acc;}));
-    own_series.push(acc_only);
     var chart = new Chartist.Line('.ct-chart', {
       labels: _.concat(0, _.map(that.displayable_list, function(e){return e.index;})),
-      series: own_series
+      series: _.fill([0], _.concat(0, _.map(that.displayable_list, function(e){return e.acc;})))
     }, {
       showArea: true,
       axisY: {
