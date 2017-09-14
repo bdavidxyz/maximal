@@ -2,7 +2,7 @@ var BetTable = Vue.component('bet-table', {
   props: ['bet_list'],
   template:  
 
-'<table>' +
+'<table class="bet-table">' +
   '<thead>' +
     '<tr>' +
       '<th>date</th>' +

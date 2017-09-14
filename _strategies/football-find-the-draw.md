@@ -6,6 +6,7 @@ layout: splash
 A football strategy that look for games that will most likely end up in the DRAW result.
 
 <div id="strategy_app">
+  <bet-graph v-bind:bet_list="bet_list"></bet-graph>
   <bet-table v-bind:bet_list="bet_list"></bet-table>
 </div>
 

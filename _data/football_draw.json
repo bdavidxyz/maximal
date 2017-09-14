@@ -1,13 +1,4 @@
 [{
-  "id":"14",
-  "game":"football",
-  "competition":"Denmark, Division 1",
-  "event":"Viborg FF - Vejle BK",
-  "beton":"Viborg FF",
-  "odd":"2.54",
-  "result":"win",
-  "date":"1497192300"
-},{
   "id":"80",
   "game":"football",
   "competition":"Europe, Ligue 1",
@@ -25,6 +16,15 @@
   "odd":"1.8",
   "result":"active",
   "date":"1508611500"
+},{
+  "id":"14",
+  "game":"football",
+  "competition":"Denmark, Division 1",
+  "event":"Viborg FF - Vejle BK",
+  "beton":"Viborg FF",
+  "odd":"2.54",
+  "result":"half-win",
+  "date":"1497192300"
 },{
   "id":"11",
   "game":"football",

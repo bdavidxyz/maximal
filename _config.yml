@@ -263,6 +263,7 @@ defaults:
       comments: true
 
 footer_scripts:
+  - /assets/js/components/bet-graph.js
   - /assets/js/components/bet-table.js
   - /assets/js/components/bet-table-row.js
   - /assets/js/blabla.js

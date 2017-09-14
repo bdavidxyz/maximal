@@ -1,7 +1,7 @@
-var BetTable = Vue.component('bet-table-row', {
+var BetTableRow = Vue.component('bet-table-row', {
   props: ['bet_data'],
   template:
-      '<tr>' +
+      '<tr class="bet-table-row">' +
         '<td>{{ bet_data.date }}</td>' +
         '<td class="sm-hidden-cell">{{ bet_data.game }}</td>' +
         '<td class="sm-hidden-cell">{{ bet_data.competition }}</td>' +
