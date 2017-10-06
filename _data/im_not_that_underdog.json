@@ -9,27 +9,5 @@
     "odd": "2.03",
     "bet_on": "Akademisk Boldklub +1.25",
     "obj_id": "Sw0FBlcQHlJUXlQCSlJMVFpCXhZRDA8CT1FGWgVdRxcATFFdAwVUXAgXXRlVXg1SWAlDAB8KBQZVBQEGVwhSBwU="
-  },
-  {
-    "game": "Football",
-    "event_date": 1507307400000,
-    "competition": "Austria, Regionalliga Ost",
-    "event": "Rapid Vienna Ii - Sv Schwechat",
-    "result": "active",
-    "bet_date": 1507305657846,
-    "odd": "2.09",
-    "bet_on": "Sv Schwechat +1.75",
-    "obj_id": "Sw0FBlcQHldEQ00RUVhMQlZTXgpWAg1cC15RXBJGHBcEEVlSTxdYVA8KVxleWExFRUhFAVpPUFQKVUUbUwlVAwRTUgEFVQQB"
-  },
-  {
-    "game": "Football",
-    "event_date": 1507307400000,
-    "competition": "Austria, Regionalliga Ost",
-    "event": "Sc/Esv Parndorf - SV Horn",
-    "result": "active",
-    "bet_date": 1507305726447,
-    "odd": "1.83",
-    "bet_on": "Sc/Esv Parndorf +0.5",
-    "obj_id": "Sw0FBlcQHldEQ00RUVhMQlZTXgpWAg1cC15RXBJGHBYGTFVFFExBUBMKUltFV0xFRUheDUBWGAVSBQYHUQlSBQNQUg=="
   }
 ]
