@@ -6,5 +6,9 @@
   {
     "a": "test",
     "obj_id": 2
+  },
+  {
+    "a": "test",
+    "obj_id": 3
   }
 ]
