@@ -9,5 +9,16 @@
     "odd": "1.96",
     "bet_on": "VfV Borussia Hildesheim +0.5",
     "obj_id": "Sw0FBlcQHlFUQlQCVkBMQlZTXgpWAg1cC15RXQ5ARQ1IBFlYFhNQUgkQG1ZFUBRYQAZeFVdRUhoLXRxAB09JVloRF0RHClYcCltVBwZKW1wIWRlUVgNVVFEJAghQBQM="
+  },
+  {
+    "game": "Football",
+    "event_date": 1507568400000,
+    "competition": "World, Clubs Friendlies",
+    "event": "PSV Eindhoven - Pachuca",
+    "result": "active",
+    "bet_date": 1507564439546,
+    "odd": "2.01",
+    "bet_on": "Pachuca 0",
+    "obj_id": "Sw0FBlcQHkFeQlUHFVoNRVFHURdRBg9UDlBVQExCQhNIBFlYBgleRwQKG0RWUglDUAQbUAIJAgZSBAgHVglU"
   }
 ]
