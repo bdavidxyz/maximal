@@ -21,5 +21,16 @@
     "odd": "2.04",
     "bet_on": "Cordoba CF II +0.25",
     "obj_id": "Sw0FBlcQHkVBUVANFUoEV0ZaUwRcChdZEVBfXQNVQxAVDgQbAQ5DVQ4GVxlUV0xfWkhEB1NUGFoXRlJfABRWBARUUwcEWwYAUgI="
+  },
+  {
+    "game": "Football",
+    "event_date": 1507564800000,
+    "competition": "Europe, Euro U21 Qualification",
+    "event": "Croatia U21 - Czech Republic U21",
+    "result": "active",
+    "bet_date": 1507562473450,
+    "odd": "2.11",
+    "bet_on": "Czech Republic U21 +0.5",
+    "obj_id": "Sw0FBlcQHlNEQlYTXRQUAgJRQhdXEwRRDFpYUgxCWAoLElhfEhBEUA0NUF1SQxIbUBdZA0ZRVBoXBgAbAkMBV11OEFJEFlVdC1EUFlEIHgtRBQNXVgJbVFcIAg=="
   }
 ]
