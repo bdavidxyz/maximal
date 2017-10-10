@@ -9,5 +9,16 @@
     "odd": "2.26",
     "bet_on": "Bulgaria U21 0",
     "obj_id": "Sw0FBlcQHlNEQlYTXRQUAgJRQhdXEwRRDFpYUgxCWAoLElhfEhBEUA0NUF1SQxIbWARMA1lQRkMDWhxDUwhJVkAPBVZGClYcFwAITlEJAg5QBAVWVwFSVQ=="
+  },
+  {
+    "game": "Football",
+    "event_date": 1507640400000,
+    "competition": "World, AFC Asian Cup Qualifiers",
+    "event": "Tajikistan - Nepal",
+    "result": "active",
+    "bet_date": 1507639396869,
+    "odd": "2.20",
+    "bet_on": "Nepal +2",
+    "obj_id": "Sw0FBlcQHkFeQlUHFVgHU1JHXgRWABRAE0xRXwhUWAAXEh1CAwtYWggXQlVZHA9TQwRaTwAIBABTBAAGUApUBA=="
   }
 ]
