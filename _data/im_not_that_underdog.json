@@ -9,5 +9,16 @@
     "odd": "2.19",
     "bet_on": "Chile +0.75",
     "obj_id": "Sw0FBlcQHkFeQlUHFU4OQl9QVBBIEgBcC19ZVhNBQgoQFVhXDwRDWAIFG1ZFUBtfX0hVCltUUBpQBAABUAlVBAdQUQc="
+  },
+  {
+    "game": "Football",
+    "event_date": 1507917600000,
+    "competition": "France, Ligue",
+    "event": "Bourg-Peronnas - Lens",
+    "result": "active",
+    "bet_date": 1507916039592,
+    "odd": "2.09",
+    "bet_on": "Bourg-Peronnas +0.25",
+    "obj_id": "Sw0FBlcQHlBDUVcAXRQNWVRBUlcVAQ5FEF4dQwRAXgsLAEMbDgRfQkxWBgUAAFEHAFQOUgI="
   }
 ]
