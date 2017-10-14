@@ -53,5 +53,16 @@
     "odd": "2.15",
     "bet_on": "Aston Villa +0.25",
     "obj_id": "Sw0FBlcQHlNfV1UCVl1MU1tVWhVRDA9DClBAHhZdXRMAE1hXDxFFXg9JQVVZVQREVhdFT1NLQVgMGUdfDVUFGQdTUwAFUwYFUwQKUw=="
+  },
+  {
+    "game": "Football",
+    "event_date": 1508006700000,
+    "competition": "Spain, Liga",
+    "event": "Atletico Madrid - Barcelona",
+    "result": "active",
+    "bet_date": 1508004362372,
+    "odd": "2.15",
+    "bet_on": "Atletico Madrid 0",
+    "obj_id": "Sw0FBlcQHkVBUVANFUkTWV5RRQRcChdZEVBfXUxTRQkAFVlVDUxcUAUWX1AaUwBEUABaDVxZGAVSBQYHUQhQBQ1XVw=="
   }
 ]
