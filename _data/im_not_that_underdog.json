@@ -31,5 +31,16 @@
     "odd": "2.16",
     "bet_on": "Sevilla 0",
     "obj_id": "Sw0FBlcQHkVBUVANFUkTWV5RRQRcChdZEVBfXUxTRQ0JBERfAUxSXRQGG1ZeXQNXXEhFB0RRWVsDGQMGUA5VBARXUwYEUw=="
+  },
+  {
+    "game": "Football",
+    "event_date": 1507989600000,
+    "competition": "England, Premier League",
+    "event": "Burnley - West Ham United",
+    "result": "active",
+    "bet_date": 1507988117764,
+    "odd": "2.12",
+    "bet_on": "Burnley 0",
+    "obj_id": "Sw0FBlcQHlNfV1UCVl1MQEFRWgxdEQ1VA15FVkxQRBcLDVVPTxZUQhVJXlVaHBRYWhFTBh8KBQZVBQEHVQhQBAU="
   }
 ]
